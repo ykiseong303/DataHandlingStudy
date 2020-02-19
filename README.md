@@ -4,7 +4,7 @@
 ## 개발환경
 + MacBook Pro (15-inch, 2018), MacOS(10.15)
 + R (R studio)
-+ python (Jupyter Notebook)
++ 파이썬 (Jupyter Notebook)
 
 ## 커리큘럼
 + 1일차 (02.05)
