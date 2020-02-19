@@ -1,5 +1,5 @@
 ## Data handling Study 
-+ 데이터 분석 및 시각화를 공부하는 저장소
++ 데이터 분석 및 시각화를 공부하는 저장소입니다.
 
 ## 개발환경
 + MacBook Pro (15-inch, 2018), MacOS(10.15)
